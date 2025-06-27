@@ -18,7 +18,9 @@
 
 5. OK.
 
-6. ![img](./images/4.png)
+6. Result:
+
+   ![img](./images/4.png)
 
 7. It's so complex.
 

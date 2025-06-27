@@ -2,7 +2,9 @@
 
 ### Simulation
 
-1. ![img](./images/1.png)
+1. Result:
+
+   ![img](./images/1.png)
 
    ![img](./images/2.png)
 
@@ -26,14 +28,20 @@
 
    ![img](./images/10.png) ![img](./images/11.png)
 
-3. ![img](./images/12.png) ![img](./images/13.png)
+3. Result:
 
-4. ![img](./images/14.png)
+   ![img](./images/12.png) ![img](./images/13.png)
+
+4. Result:
+
+   ![img](./images/14.png)
 
 5. Boost = 10 ms / 0.05 = 200 ms.
 
 6. With the `-I` flag:
+
    ![img](./images/15.png)
 
    Without the `-I` flag:
+
    ![img](./images/16.png)

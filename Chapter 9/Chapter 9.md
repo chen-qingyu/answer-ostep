@@ -4,7 +4,9 @@
 
 1. Just show seed 1: ![img](./images/1.png) ![img](./images/2.png)
 
-2. ![img](./images/3.png)
+2. Result:
+
+   ![img](./images/3.png)
 
    ![img](./images/4.png)
 

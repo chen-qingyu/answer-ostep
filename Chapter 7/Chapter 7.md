@@ -2,11 +2,17 @@
 
 ### Simulation
 
-1. ![img](./images/1.png)
+1. Result:
 
-2. ![img](./images/2.png)
+   ![img](./images/1.png)
 
-3. ![img](./images/3.png)
+2. Result:
+
+   ![img](./images/2.png)
+
+3. Result:
+
+   ![img](./images/3.png)
 
 4. When job length look like this: `job0-length <= job1-length <= job2-length ...`
 
