@@ -2,34 +2,34 @@
 
 ### Simulation
 
-1. 
+1.
 
-![img](https://gitee.com/ChobitsY/ostep/raw/master/Chapter%207/images/1.png)
+![img](./images/1.png)
 
-2. 
+2.
 
-![img](https://gitee.com/ChobitsY/ostep/raw/master/Chapter%207/images/2.png)
+![img](./images/2.png)
 
-3. 
+3.
 
-![img](https://gitee.com/ChobitsY/ostep/raw/master/Chapter%207/images/3.png)
+![img](./images/3.png)
 
-4. 
+4.
 
 When job length look like this: `job0-length <= job1-length <= job2-length ...`
 
-5. 
+5.
 
 When `quantum-length >= jobs-length`
 
-6. 
+6.
 
 The response time increases with the increase of job lengths.
 
-![img](https://gitee.com/ChobitsY/ostep/raw/master/Chapter%207/images/4.png)
+![img](./images/4.png)
 
-![img](https://gitee.com/ChobitsY/ostep/raw/master/Chapter%207/images/5.png)
+![img](./images/5.png)
 
-7. 
+7.
 
 The response time increases with the increase of quantum lengths.

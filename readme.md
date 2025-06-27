@@ -10,7 +10,7 @@
 
 从第四章开始，因为前三章没有作业。
 
-仓库地址： GitHub: https://github.com/chen-qingyu/OSTEP ; Gitee: https://gitee.com/ChobitsY/ostep 。
+仓库地址： GitHub: https://github.com/chen-qingyu/answer-ostep ; Gitee: https://gitee.com/chobity/answer-ostep 。
 
 ---
 
