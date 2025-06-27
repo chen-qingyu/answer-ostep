@@ -8,6 +8,4 @@
 
 3. Impossible. Because the limit is only 100, any virtual address greater than 100 is segmentation violation.
 
-4.
-
-![img](./images/2.png)
+4. ![img](./images/2.png)
